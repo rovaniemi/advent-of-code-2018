@@ -38,6 +38,6 @@ const second = () => {
 }
 
 export default {
-  fisrt: first,
+  first: first,
   second: second
 }
