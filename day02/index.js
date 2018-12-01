@@ -3,7 +3,7 @@ const contents = fs.readFileSync(`${__dirname}/input`, 'utf8')
 
 const first = () => {
   const answ = 0
-  console.log(anws)
+  console.log(answ)
 }
 
 const second = () => {
