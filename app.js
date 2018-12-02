@@ -1,4 +1,4 @@
-import day02 from './day02'
+import day03 from './day03'
 
-day02.first()
-day02.second()
+day03.first()
+day03.second()
