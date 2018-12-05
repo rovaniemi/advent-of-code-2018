@@ -1,4 +1,4 @@
-import day05 from './day05'
+import day from './day06'
 
-day05.first()
-day05.second()
+day.first()
+day.second()
